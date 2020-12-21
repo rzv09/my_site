@@ -1,0 +1,93 @@
+ body {
+    margin: 0;
+    text-align: center;
+    color:#fff;
+    font-family: 'Open Sans', sans-serif;
+  } 
+  h1 {
+      margin: 50px auto 0 auto;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 5.625rem;
+  }
+  h2 {
+    font-family: 'Space Mono', monospace;
+    font-size: 2.5rem;
+    padding-bottom: 50px;
+    margin-bottom: 0;
+  }
+  .description {
+      text-align: left;
+      color: #fff;
+      font-size: 1.5625rem;
+      line-height: 2;
+      width: 80%;
+  }
+  .top-container {
+      background-color: #120078;
+      padding-top: 70px;
+      position: relative;
+
+  }
+
+  .middle-container {
+      background-color: #9d0191;
+      padding-top: 40px;
+      padding-left: 25px;
+      padding-right: 25px;
+      padding-bottom: 40px;
+      font-family: 'Open Sans', sans-serif;
+  }
+
+  .bottom-container {
+      background-color: #fd3a69;
+  }
+  .get-in-touch {
+    margin-top: 0;
+    padding-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.625rem;
+    padding-bottom: 20px;
+  }
+  .coding {
+      float: right;
+      width: 15%;
+      margin-left: 30px;
+      /* margin-bottom: 50p; */
+      
+  }
+
+  .currently-learning {
+      margin-top: 60px;
+      font-family: 'Press Start 2P', cursive;
+  }
+
+  .btn {
+    margin: 20px auto 50px auto;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 50px;
+    line-height: 50px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    width: 200px;
+    font-size: 1.6rem;
+    font-weight: 100;
+    padding: 8px;
+    background-color: #FECD1A;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+
+ .footer-link {
+     padding: 20px;
+ }
+ .contact-info {
+     padding-bottom: 25px;
+     font-size: 1.3rem;
+     line-height: 2;
+ }
+
+  * { color:#fff; text-decoration: none;}
